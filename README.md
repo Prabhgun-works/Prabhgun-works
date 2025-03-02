@@ -10,6 +10,6 @@
 ### 🔥 My Top Projects:
 🔹 **[JobSeeker](https://github.com/Prabhgun-works/JobSeeker)** - REACT.js-based job portal  
 🔹 **[Investment Calculator](https://github.com/Prabhgun-works/Investment-Calculator)** - financial tool  
-🔹 **[To-Do List App](https://github.com/Prabhgun-works/Todo-List-App)** - React + Node.js task manager  
+🔹 **[Project-Manager-List App](https://github.com/Prabhgun-works/Todo-List-App)** - React task manager  
 
 
